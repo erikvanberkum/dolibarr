@@ -3057,7 +3057,6 @@ class Product extends CommonObject
 				$this->import_key = $obj->import_key;
 				$this->entity = $obj->entity;
 
-				$this->ref_ext = $obj->ref_ext;
 				$this->fk_price_expression = $obj->fk_price_expression;
 				$this->fk_unit = $obj->fk_unit;
 				$this->price_autogen = $obj->price_autogen;
